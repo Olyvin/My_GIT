@@ -1,6 +1,6 @@
 
 # My_GIT
-Projects from my studies
+__Projects from my studies__
 
 Данные проекты были выполнены в ходе обучения в Яндекс Практикуме, профессии "Аналитик данных":
 
